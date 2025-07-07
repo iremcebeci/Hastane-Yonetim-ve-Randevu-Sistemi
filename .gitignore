@@ -1,0 +1,7 @@
+/vendor/
+/phpmailer/
+/tcpdf/
+/libraries/
+/node_modules/
+*.log
+.env
